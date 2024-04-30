@@ -1,0 +1,2 @@
+../lib/uart.c:76:13:private_function	4	static
+../lib/uart.c:80:6:public_function	4	static
